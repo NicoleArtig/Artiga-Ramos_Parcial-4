@@ -1,0 +1,11 @@
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\bin\Debug\Sistema-Ventas-Nicole-Artiga.exe.config
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\bin\Debug\Sistema-Ventas-Nicole-Artiga.exe
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\bin\Debug\Sistema-Ventas-Nicole-Artiga.pdb
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.csproj.AssemblyReference.cache
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.csproj.SuggestedBindingRedirects.cache
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema_Ventas_Nicole_Artiga.Form1.resources
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema_Ventas_Nicole_Artiga.Properties.Resources.resources
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.csproj.GenerateResource.cache
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.csproj.CoreCompileInputs.cache
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.exe
+E:\Sistema-Ventas-Nicole-Artiga\Sistema-Ventas-Nicole-Artiga\obj\Debug\Sistema-Ventas-Nicole-Artiga.pdb
